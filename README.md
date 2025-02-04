@@ -39,7 +39,7 @@ if __name__ == '__main__':
 ✍️ &nbsp;In my free time, I contribute to the Python Foundation by translating documentation.\
 💬 &nbsp;Always up for a good discussion about tech, math, or automation!
 
-img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
