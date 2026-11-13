@@ -2,7 +2,7 @@
   <b>Marcos Ferreto Estrada</b>
 </h1>
 
-Hi! I'm Marcos Ferreto Estrada, a student currently living in Costa Rica. I'm learning programming through small projects.
+Hi! I'm Marcos Ferreto Estrada, an undergraduate student in Mathematical Modeling living in Costa Rica. I learn by building projects where math, data and software meet.
 
 <br>
 
@@ -31,12 +31,12 @@ if __name__ == '__main__':
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I'm currently studying Mathematical Modeling Engineering at the University of Costa Rica.\
-💡 &nbsp;I'm passionate about Big Data, Data Science, and backend development.\
-🚀 &nbsp;I enjoy building projects with FastAPI, Reflex, and Docker, always looking for ways to make applications more efficient and scalable .\
-📂 &nbsp;Some of my projects include a task management app, a web scraper API, and an inventory management system.\
-💻 &nbsp;I use Fedora as my main OS, with Hyperland as my Wayland compositor and Visual Studio Code as my go-to editor.\
-✍️ &nbsp;In my free time, I contribute to the Python Foundation by translating documentation.\
+👨‍💻 &nbsp;I'm studying Mathematical Modeling at the University of Costa Rica (UCR), with a focus on applied mathematics, computational science and AI.\
+💡 &nbsp;I'm interested in data science and in how mathematical models and algorithms can solve real problems.\
+🚀 &nbsp;I build projects with Python, FastAPI and Docker, and I run my own self-hosted services.\
+📂 &nbsp;Some of my projects: [Lattice](https://github.com/FerretoDev/Lattice), a grid-based simulation engine; an [e-commerce analytics pipeline](https://github.com/FerretoDev/mo0005-ecommerce-ml) with PostgreSQL and KNIME; and a personal finance app (in development).\
+💻 &nbsp;I use Fedora as my main OS, with Hyprland as my Wayland compositor and Visual Studio Code as my go-to editor.\
+✍️ &nbsp;I once contributed a translation to the Spanish version of the Python documentation.\
 💬 &nbsp;Always up for a good discussion about tech, math, or automation!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
