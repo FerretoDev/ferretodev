@@ -36,7 +36,6 @@ if __name__ == '__main__':
 🚀 &nbsp;I build projects with Python, FastAPI and Docker, and I run my own self-hosted services.\
 📂 &nbsp;Some of my projects: [Lattice](https://github.com/FerretoDev/Lattice), a grid-based simulation engine; an [e-commerce analytics pipeline](https://github.com/FerretoDev/mo0005-ecommerce-ml) with PostgreSQL and KNIME; and a personal finance app (in development).\
 💻 &nbsp;I use Fedora as my main OS, with Hyprland as my Wayland compositor and Visual Studio Code as my go-to editor.\
-✍️ &nbsp;I once contributed a translation to the Spanish version of the Python documentation.\
 💬 &nbsp;Always up for a good discussion about tech, math, or automation!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
